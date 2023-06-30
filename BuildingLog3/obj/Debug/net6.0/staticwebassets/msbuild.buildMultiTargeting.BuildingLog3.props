@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BuildingLog3.props" />
+</Project>
